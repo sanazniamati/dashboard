@@ -8,9 +8,7 @@ This is a [Next.js](https://nextjs.org/) project created with [`create-next-app`
 
 2.Install the dependencies with `npm install`.
 
-## Getting Started
-
-# development
+## development
 
 Run `npm run dev` and go to http://localhost:3000.
 

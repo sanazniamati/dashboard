@@ -1,0 +1,24 @@
+/** @format */
+
+.container {
+  padding: 50px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.dashboard_link {
+  margin: 20px;
+  padding: 15px;
+  border-radius: 20px;
+  background-color: gray;
+  border: 1px solid black;
+  cursor: pointer;
+}
+
+.dashboard_link:hover {
+  color: black;
+  font-weight: 700g;
+  background-color: white;
+}
